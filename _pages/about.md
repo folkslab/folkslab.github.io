@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-My name is Folk
+My name is Folk!

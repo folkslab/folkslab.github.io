@@ -12,7 +12,7 @@ title                    : "Folk Narongrit / Supporting Materials"
 title_separator          : "-"
 name                     : &name "Folk Narongrit"
 description              : &description "Academic Job Market Supporting Materials"
-url                      : https://application.folkn.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://folkslab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "folkslab/folkslab.github.io"
 
